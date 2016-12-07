@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2f5bb8b-82df-451f-90f6-b5f495578b15" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/equality.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/level1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/level2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/level3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ocr.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="a2f5bb8b-82df-451f-90f6-b5f495578b15" name="Default" comment="" />
     <ignored path="PythonChallenge.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
