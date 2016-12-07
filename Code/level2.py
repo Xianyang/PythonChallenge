@@ -1,7 +1,7 @@
 # the answer is 'equality'
 
 # solution 1
-s = ''.join([line.rstrip() for line in open('ocr.txt')])
+s = ''.join([line.rstrip() for line in open('../Resource/ocr.txt')])
 
 occurrence = {}
 for c in s: occurrence[c] = occurrence.get(c, 0) + 1
