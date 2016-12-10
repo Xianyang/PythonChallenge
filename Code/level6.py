@@ -10,7 +10,7 @@ comment = []
 
 while int(next_file_name):
     content = zip_file.read(next_file_name + file_format)
-
+    print content
     finding = re.search('\d+', content)
     if finding:
         next_file_name = finding.group(0)

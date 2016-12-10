@@ -10,7 +10,7 @@
 
 [Level5](./Notebook/Level5.ipynb) **pickle, reduce()**
 
-[Level6](./Notebook/Level6.ipynb)
+[Level6](./Notebook/Level6.ipynb) **zipfile**
 
 [Level7](./Notebook/Level7.ipynb)
 
