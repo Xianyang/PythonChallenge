@@ -6,9 +6,7 @@ start_time = time.time()
 
 # solution 1 - this is my solution
 # time O(n), space O(1)
-
-
-text = ''.join(line for line in open('equality.txt'))
+text = ''.join(line for line in open('../Resource/equality.txt'))
 text = text.replace('\n', '')
 result = ''
 
