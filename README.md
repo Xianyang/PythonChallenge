@@ -1,14 +1,14 @@
 # PythonChallenge
 
-[Level1](./Notebook/Level1.ipynb) **string(translate)**
+[Level1](./Notebook/Level1.ipynb) **string(translate), ord(), chr(), map(), lambda**
 
-[Level2](./Notebook/Level2.ipynb) **string, lambda**
+[Level2](./Notebook/Level2.ipynb) **string**
 
 [Level3](./Notebook/Level3.ipynb) **string, re**
 
 [Level4](./Notebook/Level4.ipynb) **urllib, re**
 
-[Level5](./Notebook/Level5.ipynb) **pickle**
+[Level5](./Notebook/Level5.ipynb) **pickle, reduce()**
 
 [Level6](./Notebook/Level6.ipynb)
 

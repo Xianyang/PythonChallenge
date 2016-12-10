@@ -10,7 +10,6 @@ comment = []
 
 while int(next_file_name):
     content = zip_file.read(next_file_name + file_format)
-    print content
 
     finding = re.search('\d+', content)
     if finding:
@@ -21,6 +20,5 @@ while int(next_file_name):
     else:
         break
 
-print comment
 print ''.join(comment)
 
