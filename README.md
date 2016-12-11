@@ -12,7 +12,7 @@
 
 [Level6](./Notebook/Level6.ipynb) **zipfile**
 
-[Level7](./Notebook/Level7.ipynb)
+[Level7](./Notebook/Level7.ipynb) **PIL, urllib, re, StringIO, map(), ord(), chr()**
 
 [Level8](./Notebook/Level8.ipynb)
 

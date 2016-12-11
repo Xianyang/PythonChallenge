@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2f5bb8b-82df-451f-90f6-b5f495578b15" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/level6.py" afterPath="$PROJECT_DIR$/Code/level6.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notebook/Level6.ipynb" afterPath="$PROJECT_DIR$/Notebook/Level6.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/level7.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_lambda.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notebook/Level7.ipynb" afterPath="$PROJECT_DIR$/Notebook/Level7.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="PythonChallenge.iws" />
@@ -83,12 +85,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="level6.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="level6.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/level6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="level7.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Code/level7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="77" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,6 +134,7 @@
         <option value="$PROJECT_DIR$/Code/level2.py" />
         <option value="$PROJECT_DIR$/Code/level5.py" />
         <option value="$PROJECT_DIR$/Code/level6.py" />
+        <option value="$PROJECT_DIR$/Code/level7.py" />
       </list>
     </option>
   </component>
@@ -191,7 +206,7 @@
     <property name="FullScreen" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.level6">
+  <component name="RunManager" selected="Python.level7">
     <configuration default="false" name="level6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,24 +221,6 @@
       <module name="PythonChallenge" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/level6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="level4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonChallenge" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/level4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -278,6 +275,24 @@
       <module name="PythonChallenge" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/level2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="level7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonChallenge" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/level7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -425,18 +440,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.level6" />
-      <item index="1" class="java.lang.String" itemvalue="Python.level4" />
-      <item index="2" class="java.lang.String" itemvalue="Python.level5" />
-      <item index="3" class="java.lang.String" itemvalue="Python.level1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.level2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.level5" />
+      <item index="2" class="java.lang.String" itemvalue="Python.level1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.level2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.level7" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.level6" />
-        <item index="1" class="java.lang.String" itemvalue="Python.level5" />
-        <item index="2" class="java.lang.String" itemvalue="Python.level2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.level1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.level4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.level7" />
+        <item index="1" class="java.lang.String" itemvalue="Python.level6" />
+        <item index="2" class="java.lang.String" itemvalue="Python.level5" />
+        <item index="3" class="java.lang.String" itemvalue="Python.level2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.level1" />
       </list>
     </recent_temporary>
   </component>
@@ -505,7 +520,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="22" />
+      <option name="time" value="25" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -697,9 +712,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/level6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/level7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
