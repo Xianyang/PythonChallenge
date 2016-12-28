@@ -16,7 +16,7 @@
 
 [Level8](./Notebook/Level8.ipynb) **bz2**
 
-[Level9](./Notebook/Level9.ipynb)
+[Level9](./Notebook/Level9.ipynb) **PIL, Image, ImageDraw**
 
 [Level10](./Notebook/Level10.ipynb)
 
