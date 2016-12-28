@@ -14,7 +14,7 @@
 
 [Level7](./Notebook/Level7.ipynb) **PIL, urllib, re, StringIO, map(), ord(), chr()**
 
-[Level8](./Notebook/Level8.ipynb)
+[Level8](./Notebook/Level8.ipynb) **bz2**
 
 [Level9](./Notebook/Level9.ipynb)
 
