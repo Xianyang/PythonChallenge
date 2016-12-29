@@ -29,8 +29,8 @@ from PIL import Image, ImageDraw
 
 image = Image.new('RGB', (640, 480))
 draw = ImageDraw.Draw(image)
-draw.line(first)
-draw.line(second)
+draw.line(first, (255, 0, 0))
+draw.line(second, (0, 255, 0))
 
 
 image.show()

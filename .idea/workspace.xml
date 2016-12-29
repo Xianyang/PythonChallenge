@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a2f5bb8b-82df-451f-90f6-b5f495578b15" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/level9.py" afterPath="$PROJECT_DIR$/Code/level9.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notebook/.ipynb_checkpoints/Level9-checkpoint.ipynb" afterPath="$PROJECT_DIR$/Notebook/.ipynb_checkpoints/Level9-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notebook/Level9.ipynb" afterPath="$PROJECT_DIR$/Notebook/Level9.ipynb" />
     </list>
     <ignored path="PythonChallenge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -118,7 +120,7 @@
         <entry file="file://$PROJECT_DIR$/Code/level9.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="558">
-              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <caret line="31" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -766,7 +768,7 @@
     <entry file="file://$PROJECT_DIR$/Code/level9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <caret line="31" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
