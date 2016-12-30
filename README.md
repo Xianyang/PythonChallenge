@@ -18,9 +18,9 @@
 
 [Level9](./Notebook/Level9.ipynb) **PIL, Image, ImageDraw**
 
-[Level10](./Notebook/Level10.ipynb)
+[Level10](./Notebook/Level10.ipynb) **re**
 
-[Level11](./Notebook/Level11.ipynb)
+[Level11](./Notebook/Level11.ipynb) **PIL**
 
 [Level12](./Notebook/Level12.ipynb)
 
