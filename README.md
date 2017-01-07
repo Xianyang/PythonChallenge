@@ -26,9 +26,9 @@
 
 [Level13](./Notebook/Level13.ipynb) **xmlrpclib**
 
-[Level14](./Notebook/Level14.ipynb)
+[Level14](./Notebook/Level14.ipynb) **PIL**
 
-[Level15](./Notebook/Level15.ipynb)
+[Level15](./Notebook/Level15.ipynb) **calender**
 
 [Level16](./Notebook/Level16.ipynb)
 
