@@ -30,7 +30,7 @@
 
 [Level15](./Notebook/Level15.ipynb) **calender**
 
-[Level16](./Notebook/Level16.ipynb)
+[Level16](./Notebook/Level16.ipynb) **PIL.Image, PIL.ImageChops**
 
 [Level17](./Notebook/Level17.ipynb)
 
